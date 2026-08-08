@@ -4,7 +4,7 @@ A structured, bottom-up implementation of PyTorch core primitives, tensor operat
 
 This repository serves as a foundational engineering deep dive in preparation for my transition into research.
 
-## 🧠 Motivation & Background
+## Motivation & Background
 
 Coming from a strong **TensorFlow** background in my studies, I already use PyTorch in my day-to-day professional work. However, utilizing high-level framework wrappers in production is very different from understanding the underlying calculus and gradient flow. 
 
